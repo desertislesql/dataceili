@@ -1,4 +1,4 @@
-##TSQL With Copilot
+## TSQL With Copilot
 
 #### Requirements:  Need SSMS and AdventureWorks DB
 
